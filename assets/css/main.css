@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: Fira Sans Extra Condensed;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #106A46;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
